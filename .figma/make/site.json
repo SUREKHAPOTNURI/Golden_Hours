@@ -1,0 +1,10 @@
+{
+  "description": "An accessible senior care app for adults 60+ to manage daily tasks and medications, contact family, request emergency help, and share updates with caregivers.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
